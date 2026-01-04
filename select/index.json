@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "満ちてゆく",
+  "base_artist": "藤井 風",
+  "createdAt": "2026-01-04T14:27:06.071990Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "満ちてゆく - Michi Teyu Ku (Overflowing)",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/01_満ちてゆく_-_Michi_Teyu_Ku_(Overflowing)_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "満ちてゆく",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_満ちてゆく_藤井_風.txt"
+    }
+  ]
+}
